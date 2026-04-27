@@ -48,7 +48,7 @@ for index, row in df.iterrows():
             generator = pipeline(
                 segment_text,
                 voice=voice_tensor,
-                speed=1,
+                speed=0.9,
                 split_pattern=r'\n+'
             )
 

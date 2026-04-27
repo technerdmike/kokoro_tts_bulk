@@ -5,6 +5,12 @@
 * Espeak-NG
 * Python 3.11.9
 
+For the required libraries, I believe I ran the following
+```
+pip install kokoro
+pip install pandas pydub numpy
+```
+
 ## Additional notes
 Added a feature to add pauses using the tag \[\[s=300\]\]. The number is the value for the milliseconds to pause. An issue with this pause is that the previous word should end with a punctuation, else it will be cut off. 
 
