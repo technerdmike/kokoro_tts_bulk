@@ -1,0 +1,57 @@
+﻿MA30-2_PT24_01,"A puzzle consists of four overlapping regular hexagons. Each hexagon is made up of six triangles with a small circle marking the centre of each hexagon, as shown below. The digits 1 through 6 inclusive need to be written in the remaining empty triangles so that the sum of the digits within each hexagon is 27. No digit can appear more than once in a completed hexagon.
+
+Identify the digit that is written in the triangles labelled A, B, and C in order to correctly
+complete the puzzle."
+MA30-2_PT24_02,"To complete the puzzle below, four shapes—square, triangle, circle, and star—must be placed in the 4 × 4 grid so that each shape appears exactly once in each row, column, diagonal, and corner.
+
+Identify the shape in the box labelled A and the shape in the box labelled B in order to correctly complete the puzzle."
+MA30-2_PT24_03,"There are three sets, [[s=300]] [A](/eɪ/) equals a set of multiples of 5, [[s=300]] B equals a set of factors of 39, [[s=300]] C equals a set of even numbers. 
+
+Identify the two set opperations that will result in an empty set. 
+
+A intersects B
+A union C
+B intersects C
+B union A
+A intersects C"
+MA30-2_PT24_03a,A intersects B
+MA30-2_PT24_03b,A union C
+MA30-2_PT24_03c,B intersects C
+MA30-2_PT24_03d,B union A
+MA30-2_PT24_03e,A intersects C
+MA30-2_PT24_04,"A group of 150 students was asked what type of social media platform they use on a daily basis: Chatnow (C), Instapic (I), or Zed (Z). The responses are summarized below. 
+
+The number of students who do not use Zed on a daily basis is "
+MA30-2_PT24_05,"Statistics Canada data for 2011 shows that the number of residents in Edmonton between the ages of 20 and 34 was 159445. In this age group, 133455 people had a high school diploma.
+
+To the nearest hundredth, what is the probability that a person selected at random from this age group had a high school diploma?
+0.94
+0.84
+0.19
+0.16"
+MA30-2_PT24_05a,0.94
+MA30-2_PT24_05b,0.84
+MA30-2_PT24_05c,0.19
+MA30-2_PT24_05d,0.16
+MA30-2_PT24_06,"A newspaper article claimed that a new medication doubled the probability of successful treatment compared to an older medication. The odds in favour of the older medication being successful in treatment were 4 colon 7.
+
+According to the authors of the article, the odds in favour of the new medication being successful are,
+8 colon 14
+8 colon 11
+8 colon 7
+8 colon 3"
+MA30-2_PT24_06a,8 colon 14
+MA30-2_PT24_06b,8 colon 11
+MA30-2_PT24_06c,8 colon 7
+MA30-2_PT24_06d,8 colon 3
+MA30-2_PT24_07,"The names of 25 students, including Adam and Erica, are entered into a draw for 2 different prizes. Two names will be randomly drawn without replacement to determine the winners.
+
+Which of the following expressions can be used to determine the probability that Adam and Erica win the 2 prizes?
+1 over 25 times 1 over 25
+1 over 25 times 1 over 24
+2 over 25 times 1 over 25
+2 over 25 times 1 over 24"
+MA30-2_PT24_07a,1 over 25 times 1 over 25
+MA30-2_PT24_07b,1 over 25 times 1 over 24
+MA30-2_PT24_07c,2 over 25 times 1 over 25
+MA30-2_PT24_07d,2 over 25 times 1 over 24
